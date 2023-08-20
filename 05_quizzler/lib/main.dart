@@ -79,19 +79,6 @@ class _QuizPageState extends State<QuizPage> {
     });
   }
 
-  // List<String> questions = [
-  //   'You can lead a cow down stairs but not up stairs.',
-  //   'Approximately one quarter of human bones are in the feet.',
-  //   'A slug\'s blood is green.'
-  // ];
-  // List<bool> answers = [false, true, true];
-  // Question q1 = Question(q: 'You can lead a cow down stairs but not up stairs.', a: false);
-  //
-  // List<Question> questionBank = [
-  //   Question( 'Is Bhagat GAY?',  false),
-  //   Question( 'Approximately one quarter of human bones are in the feet.',  true),
-  //   Question( 'A slug\'s blood is green.',  true),
-  // ];
 
   @override
   Widget build(BuildContext context) {
