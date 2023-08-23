@@ -10,5 +10,4 @@ All in All this section helped me to learn many new aspects of flutter.
 # Final Layout
 This was the final layout i came up with. I tried to go with a dark mode type of stlye with colors chosen with the help of material 3
 ![m_micard](https://github.com/theretardednoob/images/blob/main/myresult29June23.png)
-![image](https://github.com/theretardednoob/m_flutter/assets/93778868/ba59d5d7-cfd7-49ad-a7f8-05fffa812a9e)
 
